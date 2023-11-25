@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "AI_Growth_World_Map": {
+                "2022": {
+                    "North_America": {
+                        "United_States": "Significant",
+                        "Canada": "Moderate"
+                    },
+                    "Europe": {
+                        "United_Kingdom": "Significant",
+                        "Germany": "Significant",
+                        "France": "Moderate",
+                        "Rest_of_Europe": "Moderate"
+                    },
+                    "Asia_Pacific": {
+                        "China": "Significant",
+                        "India": "Significant",
+                        "Japan": "Significant",
+                        "South_Korea": "Significant",
+                        "Rest_of_Asia_Pacific": "Moderate"
+                    },
+                    "Latin_America": "Moderate",
+                    "Middle_East_and_Africa": "Moderate"
+                },
+                "2023": {
+                    "North_America": {
+                        "United_States": "Significant",
+                        "Canada": "Moderate"
+                    },
+                    "Europe": {
+                        "United_Kingdom": "Significant",
+                        "Germany": "Significant",
+                        "France": "Moderate",
+                        "Rest_of_Europe": "Moderate"
+                    },
+                    "Asia_Pacific": {
+                        "China": "Significant",
+                        "India": "Significant",
+                        "Japan": "Significant",
+                        "South_Korea": "Significant",
+                        "Rest_of_Asia_Pacific": "Moderate"
+                    },
+                    "Latin_America": "Moderate",
+                    "Middle_East_and_Africa": "Moderate"
+                },
+                "AI_Growth_Potential": {
+                        "Market_Size": {
+                            "2022": "$86.9 billion",
+                            "2027": "$407 billion",
+                            "2030": "$1,811.75 billion"
+                        },
+                        "Annual_Growth_Rate": "37.3%",
+                        "Contribution_to_Global_Economy": "$15.7 trillion by 2030",
+                        "AI_Adoption": {
+                            "Businesses_Employing_AI": "37%",
+                            "Leading_Businesses_Investing_in_AI": "90%",
+                            "Businesses_Deploying_AI_Capabilities": "15%"
+                        },
+                        "Job_Impact": {
+                            "Jobs_Eliminated_by_2025": "85 million",
+                            "New_Jobs_Created_by_2025": "97 million"
+                        },
+                        "Productivity_Increase": "64% of businesses expect AI to increase productivity",
+                        "Daily_Voice_Search_Users": "50% of U.S. mobile users"
+                    }
+            }
+            
+        }
+               
+    ]
+}
