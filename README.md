@@ -1,2 +1,4 @@
 # AI-Growth-Prediction
-Using the new world which is growth on the new generate AI tools help to improve our feature and I have also help to develop AI Portion &amp; marketing in different different fields.
+
+Prediction For Artificial Intelligence Growth ratio on the world level. Using api through predict the analysis and design one of the best dashboard.In this UI client can easily understand it.What does have? On the Other hand predict it when 2 years later which position that can still predict it.
+
