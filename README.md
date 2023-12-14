@@ -6,9 +6,9 @@ Prediction For Artificial Intelligence Growth ratio on the world level. Using ap
 
 This website is a powerful tool that leverages the power of Artificial Intelligence (AI) and APIs to predict growth trends. It collects data through APIs, which is then processed and analyzed using AI algorithms. This allows the website to make accurate predictions about growth trends.
 
-##breakdown:
+# breakdown:
 
-# Data Collection: Collects data through APIs. APIs, or Application Programming Interfaces, are sets of rules that allow different software applications to communicate with each other. They enable website to pull in data from various sources in a structured and automated manner.
+## Data Collection: Collects data through APIs. APIs, or Application Programming Interfaces, are sets of rules that allow different software applications to communicate with each other. They enable website to pull in data from various sources in a structured and automated manner.
 
 # AI-Powered Predictions: The collected data is then processed using AI algorithms. These algorithms are capable of identifying patterns and trends in the data that may not be immediately apparent to human analysts. This includes both demand forecasting, which predicts resource demand including raw material, inventory, and workforce2, and growth forecasting.
 
